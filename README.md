@@ -4,7 +4,7 @@
 
 <br/>
 
-# Gatsby Starter Novela
+# Meine Starter Novela
 
 With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.
 
