@@ -1,5 +1,5 @@
 ---
-title: My fucking first post using Novela by Narative
+title: My sucking second post using Novela by Narative
 author: Sacha Linnepe
 date: 2019-04-30
 hero: ./images/hero.jpg
